@@ -1,1 +1,1 @@
-New standard output commdands
+New standard output commands
