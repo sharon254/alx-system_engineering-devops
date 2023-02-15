@@ -21,9 +21,9 @@ Your script file should contain maximum 64 characters<br />
 15.Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.(101-rot13)<br />
 16.Write a script that prints every other line from the input, starting with the first line.(102-odd)<br />
 17.Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.(103-water_and_stir)<br />
-WATER is in base water
-STIR is in base stir.
-The result should be in base bestchol
+WATER is in base water<br />
+STIR is in base stir.<br />
+The result should be in base bestchol<br />
 
 
 
