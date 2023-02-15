@@ -11,11 +11,11 @@
 10.Write a script that displays the result of BREATH to the power LOVE<br />
 11.Write a script that converts a number from base 2 to base 10.<br />
 12.Create a script that prints all possible combinations of two letters, except oo.<br />
-Letters are lower cases, from a to z
-One combination per line
-The output should be alpha ordered, starting with aa
-Do not print oo
-Your script file should contain maximum 64 characters
+Letters are lower cases, from a to z<br />
+One combination per line<br />
+The output should be alpha ordered, starting with aa<br />
+Do not print oo<br />
+Your script file should contain maximum 64 characters<br />
 13.Write a script that prints a number with two decimal places, followed by a new line.<br />
 14.Write a script that converts a number from base 10 to base 16(100-decimal_to_hexadecimal)<br />
 15.Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.(101-rot13)<br />
